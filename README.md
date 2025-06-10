@@ -99,6 +99,23 @@ I made sure my answers were backed by the logs and threat intel I'd gathered ear
 6. Planned Containment and Remediation
 Based on the threat, I considered next steps like blocking the malicious IP, isolating the affected system, resetting credentials, and patching vulnerabilities. This reinforced how vital fast, effective response is to limit damage.
 
+
+🧠 Skills Gained
+
+. Alert triage using a SIEM dashboard
+
+. Log analysis across IDS/IPS, email, and network traffic
+
+. IOC verification with OSINT tools (VirusTotal, AbuseIPDB, Shodan)
+
+. Threat investigation and identifying suspicious activity
+
+. Critical thinking to assess impact and scope
+
+. Planning containment and remediation steps (block IPs, isolate hosts, etc.)
+
+
+
 ![A Day in the Life of a Junior (Associate) Security Analyst](https://github.com/user-attachments/assets/5da59edb-d627-4c00-88c9-0071d13ac98e)
 ![Websites to check malicious IPs](https://github.com/user-attachments/assets/4865a915-3771-4776-9e7b-2985987b1a7b)
 ![suspicious IP](https://github.com/user-attachments/assets/bb0ac6e9-d1e6-4bbb-be40-aeefa73864a7)
