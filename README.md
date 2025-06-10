@@ -1,11 +1,13 @@
-# My-SOC-L1-Training (A day In the life of a Junior (Associate) Security Analyst (TryHackMe Lab))
+# My-SOC-L1-Training (A day In the life of a Junior (Associate) Security Analyst (TryHackMe Lab)
 
 As an aspiring SOC analyst, I jumped into TryHackMe’s SOC Level 1 training with a mix of excitement and a bit of nervous anticipation. This wasn’t just theory—it was a deep dive into the real tools and frameworks that power cybersecurity every day. While I expected to work with familiar names like SIEMs, Wireshark, and Snort, I was genuinely thrilled to uncover powerful new tools like Autopsy, Zeek, and OSquery that I’d never even heard of before. Each hands-on challenge pushed me further, turning complex concepts into practical skills. This journey didn’t just expand my technical toolkit—it ignited my passion for defending the digital world.
 
 
 ![THM-RUBDE4ZDKZ SOC L1](https://github.com/user-attachments/assets/af1ad1a4-115f-49cd-bc95-13f315ef41e6)
 
+
 Key Objectives of SOC Level 1
+
 
 . Understanding SOC Operations
 
@@ -23,10 +25,12 @@ Key Objectives of SOC Level 1
 
 
 
+
 A day In the life of a Junior (Associate) Security Analyst (TryHackMe Lab)
 
 
  Steps to Complete the Lab:
+ 
  
 1. Started the Lab Environment
 I began by clicking the green "View Site" button on TryHackMe, which launched a simulated SOC dashboard. This virtual environment included essential tools like the SIEM, IDS/IPS alerts, email logs, and network monitoring panels—all designed to mimic a real-world security operations center.
@@ -76,6 +80,7 @@ To verify the indicators of compromise (IOCs), I used open-source intelligence (
 . Shodan
 
 By searching for suspicious IP addresses and file hashes, I could confirm if the activity was linked to known malicious actors or campaigns. This helped me make confident, evidence-based decisions.
+
 
 5. Answered the Lab Questions
 Once I had enough information, I returned to the TryHackMe interface and answered the questions based on my findings. Some of the questions included:
